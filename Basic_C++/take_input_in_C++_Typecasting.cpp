@@ -4,9 +4,12 @@ using namespace std;
 int main() {
 
     int n;
+    char c;
+    double d;
 
-    cin >> n;
+    cin >> n >> c >> d;
 
-    cout << n;
+    cout << n << " " << c << " "<< d;
+
     return 0;
 }
