@@ -19,6 +19,10 @@ class Student {
 }
 
 int main() {
+
+    Student rakib(10, 12, 4.82);
+
+    cout << rakib.roll << " " << rakib.cls << " " << rakib.gpa << endl;
     
     return 0;
 }
