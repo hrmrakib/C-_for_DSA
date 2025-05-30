@@ -8,7 +8,7 @@ int* func() {
         cin >> a[i];
     }
 
-    return a;
+    return a; 
 }
 
 int main() {
