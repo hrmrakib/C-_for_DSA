@@ -1,15 +1,18 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
     int a, b, c;
     char s, q;
 
     cin >> a >> s >> b >> q >> c;
 
-    if(s == '+') {
-        (a + b) == c ? cout << "Yes\n" : cout << (a + b) << endl; 
+    if (s == '+')
+    {
+        // (a + b) == c ? cout << "Yes\n" : cout << (a + b) << endl;
+        cout << (a + b) << c << endl;
     }
-    cout << a << s << b << q << c;
+    // cout << a << s << b << q << c;
     return 0;
 }
