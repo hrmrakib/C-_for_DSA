@@ -7,7 +7,7 @@ int main() {
     
     int x;
 
-    while (cint >> x)
+    while (cin >> x)
     {
         cout << x << endl;
     }
