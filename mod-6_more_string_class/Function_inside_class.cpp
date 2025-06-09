@@ -12,7 +12,7 @@ class Student{
     }
 
     void hello() {
-        cout << "Hello ......." << endl;
+        cout << "Hello " << name << endl;
     }
 };
 
