@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     string s = "Hello I am Rakib";
-
+ 
     stringstream ss(s);
     string word;
 
