@@ -1,7 +1,7 @@
 6
 Rakib 10 88
-Sakib 14 78
-Fahim 19 70
-Sifat 15 85
-Rifat 08 97
+Sakib 14 88
+Fahim 19 88
+Sifat 15 88
+Rifat 08 88
 Ifat 22 66

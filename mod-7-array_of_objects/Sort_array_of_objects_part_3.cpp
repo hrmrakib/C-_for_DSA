@@ -10,11 +10,14 @@ public:
 };
  
 bool comp (Student l, Student r) {
-    if(l.marks < r.marks){
-        return true;
-    }else{
-        return false;
-    }
+    // if(l.marks < r.marks){
+    //     return true;
+    // }else{
+    //     return false;
+    // }
+    
+    // return l.marks < r.marks;
+    return l.roll < r.roll
 }
 
 int main()
