@@ -6,14 +6,14 @@ int main() {
     cin >> tc;
     
     while(tc--) {
-        // int n;
-        // chat c;
+        int n;
+        char c;
+        cin >> n >> c;
 
-        // for(int i = 0; i < n; i++) {
-
-        // }
-
-        cout << tc << endl;
+        for(int i = 0; i < n; i++) {
+            cout << c << " ";
+        }
+        cout << endl;
     }
     return 0;
 }
