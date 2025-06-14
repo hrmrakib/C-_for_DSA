@@ -13,7 +13,7 @@ bool comp (Student l, Student r) {
     if(l.marks < r.marks){
         return true;
     }else{
-        return false;
+        return false; 
     }
 }
 
@@ -23,6 +23,7 @@ int main()
     cin >> n;
  
     Student a[n];
+    
     for (int i = 0; i < n; i++)
     {
         cin >> a[i].name >> a[i].roll >> a[i].marks;
