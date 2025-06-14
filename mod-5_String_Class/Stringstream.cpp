@@ -10,7 +10,7 @@ int main() {
     // ss >> word;
     // cout << word << endl;
     // ss >> word;
-    // cout << word << endl;
+    // cout << word << endl; 
     // ss >> word;
     // cout << word << endl;
     // ss >> word;

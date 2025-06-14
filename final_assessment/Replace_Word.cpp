@@ -15,7 +15,7 @@ int main()
         size_t pos = 0;
         while ((pos = s.find(x, pos)) != string::npos)
         {
-            s.replace(pos, x.length(), "*");
+            s.replace(pos, x.length(), "#");
             pos += 1;
         }
         cout << s << endl;
